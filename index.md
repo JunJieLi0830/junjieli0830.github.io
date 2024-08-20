@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://junjieli0830.github.io/junjie.jpg" class="floatpic" width="360" height="480">
 
 Here is **JunJie LI (李俊杰)**.
 
@@ -14,8 +14,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-- **Sep 2024 - Future:** Cambridge University (Incoming EE MPhil, supervised by [Prof. Ozgur B. Akan](https://ioe.eng.cam.ac.uk/directory/akan))
-- **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
+- **Sep 2023 - Now:** Beijing University of Posts and Telecommunications, School of Artificial Intelligence (Ph.d)
 - **Sep 2022 - June 2023:** Beijing University of Posts and Telecommunications, School of Artificial Intelligence (Master)
 - **Sep 2018 - Jul 2022:** Beijing University of Posts and Telecommunications, School of Information and Communication Engineering (B.S.)
 
