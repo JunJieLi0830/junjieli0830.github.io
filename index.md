@@ -16,8 +16,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - **Sep 2024 - Future:** Cambridge University (Incoming EE MPhil, supervised by [Prof. Ozgur B. Akan](https://ioe.eng.cam.ac.uk/directory/akan))
 - **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
-- **Sep 2020 - June 2024:** Fuzhou University (BEng, EECS)
-- **June 2022 - Nov 2022:** Cambridge University (Internship)
+- **Sep 2022 - June 2023:** Beijing University of Posts and Telecommunications, School of Artificial Intelligence (Master)
+- **Sep 2018 - Jul 2022:** Beijing University of Posts and Telecommunications, School of Information and Communication Engineering (B.S.)
 
 ---
 
