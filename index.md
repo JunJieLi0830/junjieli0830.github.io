@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://junjieli0830.github.io/junjie.jpg" class="floatpic" width="360" height="480">
 
-Here is **JunJie LI (李俊杰)**.
+Here is **JunJie LI (李俊杰)**, born in 2001, JiangXi Province.
 
 I am a Doctoral candidate in ANT lab at School of Artificial Intelligence, Beijing University of Posts and Telecommunications. I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI & KDD UC Scholar**.
 
