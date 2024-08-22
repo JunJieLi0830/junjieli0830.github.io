@@ -27,7 +27,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Video Transmission
 - Applied Machine Learning
 
-My current research focuses on practical problems that artificial intelligence faces in ** Unstructured Environment **. My interests are on the **Machine Learning** and its applications. In a word, advanced technologies like ML influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on practical problems that artificial intelligence faces in **Unstructured Environment**. My interests are on the **Machine Learning** and its applications. In a word, advanced technologies like ML influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 ---
 
@@ -35,5 +35,5 @@ My current research focuses on practical problems that artificial intelligence f
 
 - **July 2024**：Very excited to attend the IGARSS 2024. See you in Athens!
 - **May 2024**: Supported by BUPT Excellent Ph.D. Students Foundation!
-- **Oct 2023：**Our work *Meta360* has been accepted to ISMAR as a **oral** paper. See you in Australia!
+- **Oct 2023**: Our work *Meta360* has been accepted to ISMAR as a **oral** paper. See you in Australia!
 
