@@ -4,13 +4,13 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Update: 3rd August 2024
+> Update: 20th August 2024
 >
-> (†: equal contribution, ~: corresponding author)
+> (†: corresponding author)
 
 ## Conference Paper
 
-- BLEGuard: Hybrid Detection Mechanism for Safeguarding Bluetooth Low Energy Networks Against Spoofing Attacks<br>**Hanlin Cai**†, Yuchen Fang†, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu~<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. Also presented in MobiSys 2024 Poster Session.<br>Barcelona, Spain. June, 2024.
+- Meta360: Exploring User-Specific and Robust Viewport Prediction in360-Degree Videos through Bi-Directional LSTM and Meta-Adaptation<br>**JunJie Li**, YuMei Wang†, Yu Liu<br>2023 IEEE International Symposium on Mixed and Augmented Reality (ISMAR, CCF B, Core A*).<br>Sydney, Australia. Oct, 2023.
 
   <br>
 
