@@ -34,7 +34,7 @@ My current research focuses on practical problems that artificial intelligence f
 ## News and Updates
 
 - **July 2024**：Very excited to attend the IGARSS 2024 and present our two oral papers. See you in Athens!
-- **Jan 2024**: Gotten two **IEEE Trans.** paper published!
+- **Jan 2024**: Gotten two *IEEE Trans* paper published!
 - **May 2024**: Supported by BUPT Excellent Ph.D. Students Foundation!
-- **Oct 2023**: Our work *Meta360* has been accepted to ISMAR as a **oral** paper. See you in Australia!
+- **Oct 2023**: Our work *Meta360* has been accepted to ISMAR as a *oral* paper. See you in Australia!
 
