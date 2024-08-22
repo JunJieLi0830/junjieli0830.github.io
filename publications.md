@@ -14,6 +14,9 @@ title: Publications
 - TOWARDS CLEARER MARS IMAGES: SELF-SUPERVISED DENOISING WITH LARGE VISION MODEL<br>JiaWei Wang,**JunJie Li**,<br>2024 IEEE International Geoscience and Remote Sensing Symposium (IGARSS-Oral).<br>Athens, Greece. Oct, 2024.
 - UNSUPERVISED DENOISING WITH IMPLICIT NOISE MAPPING FOR SINGLE MARTIAN MULTISPECTRAL IMAGE<br>**JunJie Li**, YuMei Wang, Yu Liu†<br>2024 IEEE International Geoscience and Remote Sensing Symposium (IGARSS-Oral).<br>Athens, Greece. Oct, 2024.
 
+---
+
+<br>
 
 ---
 
@@ -24,10 +27,6 @@ title: Publications
 - JUST360: Optimizing 360-Degree Video Streaming Systems With Joint Utility<br>ZhiJun Li, YuMei Wang†, Yu Liu**JunJie Li**. Junior-year Intern Program.<br>Accepted by IEEE Transactions on Broadcasting (SCI 1区) in 2024.
 
 ---
-
-## Manuscript
-
-TBA.
 
 <br>
 
