@@ -12,18 +12,16 @@ title: Publications
 
 - Meta360: Exploring User-Specific and Robust Viewport Prediction in360-Degree Videos through Bi-Directional LSTM and Meta-Adaptation<br>**JunJie Li**, YuMei Wang†, Yu Liu<br>2023 IEEE International Symposium on Mixed and Augmented Reality (ISMAR-Oral, CCF B, Core A*).<br>Sydney, Australia. Oct, 2023.
 - TOWARDS CLEARER MARS IMAGES: SELF-SUPERVISED DENOISING WITH LARGE VISION MODEL<br>JiaWei Wang,**JunJie Li**,<br>2024 IEEE International Geoscience and Remote Sensing Symposium (IGARSS-Oral).<br>Athens, Greece. Oct, 2024.
-- UNSUPERVISED DENOISING WITH IMPLICIT NOISE MAPPING FOR SINGLE MARTIAN MULTISPECTRAL IMAGE<br>**JunJie Li**, WeiKun Lv, JiaWei Wang, YuMei Wang, Yu Liu†<br>2024 IEEE International Geoscience and Remote Sensing Symposium (IGARSS-Oral).<br>Athens, Greece. Oct, 2024.
+- UNSUPERVISED DENOISING WITH IMPLICIT NOISE MAPPING FOR SINGLE MARTIAN MULTISPECTRAL IMAGE<br>**JunJie Li**, YuMei Wang, Yu Liu†<br>2024 IEEE International Geoscience and Remote Sensing Symposium (IGARSS-Oral).<br>Athens, Greece. Oct, 2024.
 
 
 ---
 
-## Degree Thesis
+## Journal Paper
 
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). **Best Bachelor Thesis Award** (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
+- Synergistic Temporal-Spatial User-Aware Viewport Prediction for Optimal Adaptive 360-Degree Video Streaming<br>YuMei Wang†, **JunJie Li**, Yu Liu.<br>Accepted by IEEE Transactions on Broadcasting (SCI 1区) in 2024.
 
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at China Huading Tech and IIoT Lab<br>
-
-  <br>
+- JUST360: Optimizing 360-Degree Video Streaming Systems With Joint Utility<br>ZhiJun Li, YuMei Wang†, Yu Liu**JunJie Li**. Junior-year Intern Program.<br>Accepted by IEEE Transactions on Broadcasting (SCI 1区) in 2024.
 
 ---
 
