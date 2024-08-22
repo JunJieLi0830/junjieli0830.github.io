@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://junjieli0830.github.io/junjie.jpg" class="floatpic" width="360" height="480">
+<img src="https://junjieli0830.github.io/junjie_intro.jpg" class="floatpic" width="360" height="480">
 
 Here is **JunJie LI (李俊杰)**, born in 2001, JiangXi Province.
 
