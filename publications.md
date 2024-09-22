@@ -22,9 +22,9 @@ title: Publications
 
 ## Journal Paper
 
-- [Synergistic Temporal-Spatial User-Aware Viewport Prediction for Optimal Adaptive 360-Degree Video Streaming](https://ieeexplore.ieee.org/abstract/document/10477574)<br>YuMei Wang†, **JunJie Li**, Yu Liu.<br>Accepted by IEEE Transactions on Broadcasting (SCI 1区) in 2024.
+- [Synergistic Temporal-Spatial User-Aware Viewport Prediction for Optimal Adaptive 360-Degree Video Streaming](https://ieeexplore.ieee.org/abstract/document/10477574)<br>YuMei Wang†, **JunJie Li**, Yu Liu.<br>Accepted by IEEE Transactions on Broadcasting (中科院1区) in 2024.
 
-- [JUST360: Optimizing 360-Degree Video Streaming Systems With Joint Utility](https://ieeexplore.ieee.org/abstract/document/10477542)<br>ZhiJun Li, YuMei Wang†, Yu Liu, **JunJie Li**.<br>Accepted by IEEE Transactions on Broadcasting (SCI 1区) in 2024.
+- [JUST360: Optimizing 360-Degree Video Streaming Systems With Joint Utility](https://ieeexplore.ieee.org/abstract/document/10477542)<br>ZhiJun Li, YuMei Wang†, Yu Liu, **JunJie Li**.<br>Accepted by IEEE Transactions on Broadcasting (中科院1区) in 2024.
 
 ---
 
