@@ -11,8 +11,8 @@ title: Publications
 ## Conference Paper
 
 - [Meta360: Exploring User-Specific and Robust Viewport Prediction in360-Degree Videos through Bi-Directional LSTM and Meta-Adaptation](https://ieeexplore.ieee.org/abstract/document/10316514)<br>**JunJie Li**, YuMei Wang†, Yu Liu.<br>2023 IEEE International Symposium on Mixed and Augmented Reality (ISMAR-Oral, CCF B, Core A*).<br>Sydney, Australia. Oct, 2023.
-- [TOWARDS CLEARER MARS IMAGES: SELF-SUPERVISED DENOISING WITH LARGE VISION MODEL]()<br>JiaWei Wang, Hui Tian†, **JunJie Li**.<br>2024 IEEE International Geoscience and Remote Sensing Symposium (IGARSS-Oral).<br>Athens, Greece. Oct, 2024.
-- [UNSUPERVISED DENOISING WITH IMPLICIT NOISE MAPPING FOR SINGLE MARTIAN MULTISPECTRAL IMAGE]()<br>**JunJie Li**, YuMei Wang, Yu Liu†.<br>2024 IEEE International Geoscience and Remote Sensing Symposium (IGARSS-Oral).<br>Athens, Greece. Oct, 2024.
+- [TOWARDS CLEARER MARS IMAGES: SELF-SUPERVISED DENOISING WITH LARGE VISION MODEL](https://ieeexplore.ieee.org/abstract/document/10640921)<br>JiaWei Wang, Hui Tian†, **JunJie Li**.<br>2024 IEEE International Geoscience and Remote Sensing Symposium (IGARSS-Oral).<br>Athens, Greece. Oct, 2024.
+- [UNSUPERVISED DENOISING WITH IMPLICIT NOISE MAPPING FOR SINGLE MARTIAN MULTISPECTRAL IMAGE](https://ieeexplore.ieee.org/abstract/document/10641948)<br>**JunJie Li**, YuMei Wang, Yu Liu†.<br>2024 IEEE International Geoscience and Remote Sensing Symposium (IGARSS-Oral).<br>Athens, Greece. Oct, 2024.
 
 ---
 
