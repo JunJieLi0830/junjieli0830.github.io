@@ -10,7 +10,7 @@ Here is **JunJie LI (李俊杰)**, born in 2001, JiangXi Province.
 
 I am a Doctoral candidate in ANT lab at School of Artificial Intelligence, Beijing University of Posts and Telecom. I am supervised by [Prof. Yu Liu](https://ai.bupt.edu.cn/szdw/szyl/znxxgcx/5.htm#) and [Prof. YuMei Wang](https://ai.bupt.edu.cn/szdw/szyl/znxxgcx/3.htm).
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *junjie@bupt.edu.cn*. I am Libra, and my MBTI is ESTJ (used to be ENFJ, a happy dog)
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *junjie@bupt.edu.cn*. I am [Libra](images/libra.png), and my MBTI is ESTJ (used to be ENFJ, a happy dog)
 
 ## Academic Background
 
