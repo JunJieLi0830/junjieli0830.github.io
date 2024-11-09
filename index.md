@@ -14,7 +14,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-- **Sep 2023 - Now:** Beijing University of Posts and Telecommunications, School of Artificial Intelligence (Ph.D.)
+- **Sep 2023 - Now:** Beijing University of Posts and Telecommunications, School of Artificial Intelligence (Ph.D. Student)
 - **Sep 2022 - Jul 2023:** Beijing University of Posts and Telecommunications, School of Artificial Intelligence (Master)
 - **Sep 2018 - Jul 2022:** Beijing University of Posts and Telecommunications, School of Information and Communication Engineering (B.S.)
 
@@ -33,6 +33,7 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
+- **Nove 2024**：Win the first-class scholarship for doctoral students from BUPT.
 - **July 2024**：Very excited to attend the IGARSS 2024 and present our two *oral* papers. See you in Athens!
 - **Jan 2024**: Gotten two *IEEE Trans* papers published!
 - **May 2024**: Supported by BUPT Excellent Ph.D. Students Foundation!
