@@ -26,6 +26,7 @@ title: Publications
 
 - [JUST360: Optimizing 360-Degree Video Streaming Systems With Joint Utility](https://ieeexplore.ieee.org/abstract/document/10477542)<br>ZhiJun Li, YuMei Wang†, Yu Liu, **JunJie Li**.<br>Accepted by IEEE Transactions on Broadcasting (中科院1区) in 2024.
 
+- [全景视频基于块的视口自适应传输方案综述](https://kns.cnki.net/kcms2/article/abstract?v=4mdsUcMtJE2mljq-cs8RNliDUYAS12Q5MpbO8ExTVIBgBxS6Rmi1S6cL7AnW2h6mi6yFnevDwKA3v76laUpe2KobTt9sJqwuuUECKluWgU0NZxi-FJao6vuetvf3SWudYXm3CWQi-lxIf1bqAXJQ4gslj0of4hizN4Ap1PNdaF1CKIxz4zKatGP3d7GVO1QH&uniplatform=NZKPT&language=CHS)<br>**JunJie Li**, YuMei Wang†, ZhiJun Li, Yu Liu.<br>Accepted by 计算机应用 (北核期刊) in 2023.
 ---
 
 <br>
