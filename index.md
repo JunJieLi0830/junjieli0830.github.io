@@ -33,9 +33,10 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
+- **Janu 2025**：Get Supported by BUPT innovation and entrepreneurship support program (1/10), 30,000 RMB.
 - **Nove 2024**：Win the first-class scholarship for doctoral students from BUPT.
 - **July 2024**：Very excited to attend the IGARSS 2024 and present our two *oral* papers. See you in Athens!
 - **Jan 2024**: Gotten two *IEEE Trans* papers published!
-- **May 2024**: Supported by BUPT Excellent Ph.D. Students Foundation!
+- **May 2024**: Supported by BUPT Excellent Ph.D. Students Foundation!(1/10).
 - **Oct 2023**: Our work *Meta360* has been accepted to ISMAR 2023 as a *oral* paper. See you in Sydney!
 
