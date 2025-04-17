@@ -27,7 +27,7 @@ Instead of a list of all class selectors,
 you can use the generic selector below, but it's slower:
 [class*="icon-"] {
 */
-.icon-instagram, .icon-facebook, .icon-twitter, .icon-google-plus, .icon-feed, .icon-feed-2, .icon-linkedin, .icon-tumblr, .icon-lastfm, .icon-mail, .icon-github {
+.icon-instagram, .icon-orcid .icon-facebook, .icon-twitter, .icon-google-plus, .icon-feed, .icon-feed-2, .icon-linkedin, .icon-tumblr, .icon-lastfm, .icon-mail, .icon-github {
 	font-family: 'icomoon';
 	speak: none;
 	font-style: normal;
@@ -36,6 +36,9 @@ you can use the generic selector below, but it's slower:
 	text-transform: none;
 	line-height: 1;
 	-webkit-font-smoothing: antialiased;
+}
+.icon-orcid:before {
+    content: "\e00d";  
 }
 .icon-instagram:before {
 	content: "\e004";
