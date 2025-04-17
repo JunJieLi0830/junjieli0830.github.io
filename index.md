@@ -26,6 +26,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Artificial Intellgience
 - Video Transmission
 - Applied Machine Learning
+- Task-Oriented Semantic Communications
 
 My current research focuses on practical problems that artificial intelligence faces in **Unstructured Environment**. My interests are on the **Machine Learning** and its applications. In a word, advanced technologies like ML influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
@@ -33,6 +34,7 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
+- **Apr 2025**：Gotten one *IEEE GRSL* papers published.
 - **Janu 2025**：Get Supported by BUPT innovation and entrepreneurship support program (1/10), 30,000 RMB.
 - **Nove 2024**：Win the first-class scholarship for doctoral students from BUPT.
 - **July 2024**：Very excited to attend the IGARSS 2024 and present our two *oral* papers. See you in Athens!
