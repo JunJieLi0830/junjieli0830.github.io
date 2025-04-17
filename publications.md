@@ -21,7 +21,7 @@ title: Publications
 ---
 
 ## Journal Paper
-- [DUSTNet: An Unsupervised and Noise-Resistant Network for Martian Dust Storm Change Detection]([https://ieeexplore.ieee.org/abstract/document/10477574](https://ieeexplore.ieee.org/document/10966914))<br>MiYu Li, **JunJie Li**, YuMei Wang†, Yu Liu.<br>Accepted by IEEE Geoscience and Remote Sensing Letters in 2025.
+- [DUSTNet: An Unsupervised and Noise-Resistant Network for Martian Dust Storm Change Detection](https://ieeexplore.ieee.org/document/10966914)<br>MiYu Li, **JunJie Li**, YuMei Wang†, Yu Liu.<br>Accepted by IEEE Geoscience and Remote Sensing Letters in 2025.
 
 - [Synergistic Temporal-Spatial User-Aware Viewport Prediction for Optimal Adaptive 360-Degree Video Streaming](https://ieeexplore.ieee.org/abstract/document/10477574)<br>YuMei Wang†, **JunJie Li**, Yu Liu.<br>Accepted by IEEE Transactions on Broadcasting (中科院1区) in 2024.
 
