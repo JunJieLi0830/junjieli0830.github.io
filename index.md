@@ -36,9 +36,9 @@ My current research focuses on practical problems that artificial intelligence f
 
 - **Jul 2025**：Gotten one *IEEE JSTARS* papers published.
 - **Apr 2025**：Gotten one *IEEE GRSL* papers published.
-- **Janu 2025**：Get Supported by BUPT innovation and entrepreneurship support program (1/10), 30,000 RMB.
-- **Nove 2024**：Win the first-class scholarship for doctoral students from BUPT.
-- **July 2024**：Very excited to attend the IGARSS 2024 and present our Two *Oral* papers. See you in Athens!
+- **Jan 2025**：Get Supported by BUPT innovation and entrepreneurship support program (1/10), 30,000 RMB.
+- **Nov 2024**：Win the first-class scholarship for doctoral students from BUPT.
+- **Jul 2024**：Very excited to attend the IGARSS 2024 and present our Two *Oral* papers. See you in Athens!
 - **Jan 2024**: Gotten two *IEEE Trans. Broadcasting* papers published!
 - **May 2024**: Supported by BUPT Excellent Ph.D. Students Foundation!(1/10).
 - **Oct 2023**: Our work *Meta360* has been accepted to ISMAR 2023 as an *Oral* paper. See you in Sydney!
