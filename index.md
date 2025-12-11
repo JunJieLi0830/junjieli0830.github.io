@@ -6,11 +6,7 @@ layout: page
 
 <img src="https://junjieli0830.github.io/junjie_intro.jpg" class="floatpic" width="360" height="480">
 
-Here is **JunJie LI (李俊杰)**, born in 2001, JiangXi Province.
-
-I am a Doctoral candidate in ANT lab at School of Artificial Intelligence, Beijing University of Posts and Telecom. I am supervised by [Prof. Yu Liu](https://ai.bupt.edu.cn/szdw/szyl/znxxgcx/5.htm#) and [Prof. YuMei Wang](https://ai.bupt.edu.cn/szdw/szyl/znxxgcx/3.htm).
-
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *junjie@bupt.edu.cn*.
+Here is **JunJie LI (李俊杰)**, born in 2001, JiangXi Province. I am a Doctoral candidate in ANT lab at School of Artificial Intelligence, Beijing University of Posts and Telecom. I am supervised by [Prof. Yu Liu](https://ai.bupt.edu.cn/szdw/szyl/znxxgcx/5.htm#) and [Prof. YuMei Wang](https://ai.bupt.edu.cn/szdw/szyl/znxxgcx/3.htm). If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *junjie@bupt.edu.cn*.
 
 ## Academic Background
 
@@ -33,10 +29,10 @@ My current research focuses on practical problems that artificial intelligence f
 ---
 
 ## News and Updates
-- **Dec 2025**：Gotten one *IEEE Trans. Cognitive Communications and Networking* papers published.
-- **Dec 2025**：Gotten one *IEEE Trans. Computational Imaging* papers published.
-- **Jul 2025**：Gotten one *IEEE JSTARS* papers published.
-- **Apr 2025**：Gotten one *IEEE GRSL* papers published.
+- **Dec 2025**：Gotten one *IEEE Trans. Cognitive Communications and Networking* paper published.
+- **Dec 2025**：Gotten one *IEEE Trans. Computational Imaging* paper published.
+- **Jul 2025**：Gotten one *IEEE JSTARS* paper published.
+- **Apr 2025**：Gotten one *IEEE GRSL* paper published.
 - **Jan 2025**：Get Supported by BUPT innovation and entrepreneurship support program (1/10), 30,000 RMB.
 - **Nov 2024**：Win the first-class scholarship for doctoral students from BUPT.
 - **Jul 2024**：Very excited to attend the IGARSS 2024 and present our Two *Oral* papers. See you in Athens!
