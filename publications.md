@@ -20,7 +20,7 @@ title: Publications
 ---
 
 ## Journal Paper
-- [LLM-Empowered Semantic Communication for Multi-Task 3D Scene Understanding in Low-Altitude Economy Networks](https://ieeexplore.ieee.org/abstract/document/11083740)<br>**Jiawei Wang**, Junjie Li, Hui Tian†, Ping Zhang.<br>Accepted by IEEE Transactions on Cognitive Communications and Networking in 2025.
+- [LLM-Empowered Semantic Communication for Multi-Task 3D Scene Understanding in Low-Altitude Economy Networks](https://ieeexplore.ieee.org/abstract/document/11083740)<br>Jiawei Wang, **Junjie Li**, Hui Tian†, Ping Zhang.<br>Accepted by IEEE Transactions on Cognitive Communications and Networking in 2025.
 
 - [M3Depth: Wavelet-Enhanced Depth Estimation on Mars via Mutual Boosting of Dual-Modal Data](https://ieeexplore.ieee.org/document/11293764)<br>**JunJie Li**, Jiawei Wang, Miyu Li, Yu Liu†, YuMei Wang.<br>Accepted by IEEE Transactions on Computational Imaging in 2025.
   
