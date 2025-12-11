@@ -33,7 +33,8 @@ My current research focuses on practical problems that artificial intelligence f
 ---
 
 ## News and Updates
-
+- **Dec 2025**：Gotten one *IEEE Trans. Cognitive Communications and Networking* papers published.
+- **Dec 2025**：Gotten one *IEEE Trans. Computational Imaging* papers published.
 - **Jul 2025**：Gotten one *IEEE JSTARS* papers published.
 - **Apr 2025**：Gotten one *IEEE GRSL* papers published.
 - **Jan 2025**：Get Supported by BUPT innovation and entrepreneurship support program (1/10), 30,000 RMB.
